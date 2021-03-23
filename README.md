@@ -1,4 +1,4 @@
 # Git_datacamp
-Some  knowledge about Git
-And this is some trials with new information
+Some knowledge about Git
+This folder contains all screenshot from git I learned at datacamp
 #DATACAMP.ORG
